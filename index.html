@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Capstone Project</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="capstone.css">
     
 <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 
@@ -13,56 +13,102 @@
   </head>
   <body>
     
-        <header>
-            <nav>
-              <img src="image/menu.svg" alt="" class="menu" />
-              <div id="mobile-menu">
-                <ul>
-                  <li>CC comprige</li>
-                  <li><a href="#">about</a></li>
-                  <li>program</li>
-                  <li>join</li>
-                  <li>sponsor</li>
-                  <li>news</li>
-                </ul>
-              </div>
-            </nav>
-          </header>
-          <main>
-            <section class="headline-section">
-              <div>
-                <h1>"Hello"</h1>
-                <h2>LASER<br>GLOBAL SUMMIT<br>2019</h2>
-              </div>
-              <div id="description">
-                <h1>
-                  Two days global summit on LASER and its fundamentals
-                </h1>
-              </div>
-              <div class="intro">
-                <h4>2019.10.17(THU)~2019.10.18(FRI)</h4>
-                <p>@National Institute of Physics<br>University of Calcutta,WestBengal,India</p>
-              </div>
-              
-            </section>
+    <ul class="SocialBar">
+    <li><img class="socialIcon" src="/image/instagram.png" alt="Instagram"> </li>
+    <li><img class="socialIcon" src="/image/facebook.png" alt="Facebook"> </li>
+    </ul>
+
+    <nav class="navSmall">
+      <div class="navbtn" onclick="navclick(this)">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </div>
     
-     
-      <section class="main">
-  
-        <h1>About LASER</h1>
-        <div class="main-div">
-          <div class="lecturer">
-            <div class="main-img"><img class="logo" src="image/LASER.jpg" alt="" /></div>
-           </div>
-          <div class="main-desc">
-            <h2>
-              <br> <br> <br> <br> LASER light are  
-            </h2>
-          </div>
-        </div>
-        <div class="main2"></div>
-      </section>
-    </main>
-    <footer></footer>
-  </body>
+    <a href="/about.html"></a>
+    <img onclick="ToggleNavBar('open')" class="Hamburger" src="/image/logo1.png" alt="logo">
+    </a>
+  </nav>
+
+  <nav class = "NavBar">
+    <div>
+      <a href="/about.html"></a>
+      <img class="logo" src="/image/logo1.png" alt="Logo">
+    </div>
+    <ul class="Navlink">
+      <li>
+        <a href="/about.html">About</a>
+      </li>
+      <li>Program</li>
+      <li>Join</li>
+      <li>Sponsor</li>
+      <li>News</li>
+      <li>Donate</li>
+    </ul>
+  </nav>
+
+  <Section class="firsthead">
+    <h1 class="intext">Seminar for Awareness regarding LASER</h1>
+    <div class="petit">
+      <h2> 
+        TGAS Kolkata Seminar arranged a two days Seminar 
+       for High School Students who will get basic knowledge regarding LASER <br>
+      which is implemented in daily life unknowingly</h2>
+    </div>
+    <div class="secondhead">
+      <h3>2019.10.17(THU)~2019.10.18(FRI)</h3>
+    </div>
+  </Section>
+
+  <div class="program">
+    <h1>Program</h1>
+    <hr class="line"/>
+    <div class="All-Programs">
+      <div class="grid-item1"><img src="/image/Powerpoint.png" alt="Presentation">
+        <h3>Lectures</h3>
+        <h6>Subsequent lectures can improve students</h6>  
+      </div>
+      <div class="grid-item1"><img src="/image/contributions.png" alt="Discussions">
+        <h3>Discussions</h3>
+        <h6>Subsequent lectures can improve students</h6>  
+      </div>
+      <div class="grid-item1"><img src="/image/Powerpoint.png" alt="QASession">
+        <h3>Question and Answer Session</h3>
+        <h6>Subsequent lectures can improve students</h6>  
+      </div>
+      <div class="grid-item1"><img src="/image/contributions.png" alt="Summary">
+        <h3>Summary</h3>
+        <h6>Subsequent lectures can improve students</h6>  
+      </div>
+    </div>
+  </div>
+
+  <div class="section3">
+    <h1>Speakers</h1>
+  <hr class="line" />
+  <ul class="Speaker"></ul>
+</div>
+
+<div class="topfoot">
+<ul>
+  <li> <img src="/image/Microsoft.png" alt="Microsoft"></li>
+  <li> <img src="/image/Paypal.png" alt="Paypal"></li>
+  <li> <img src="/image/Mozilla.png" alt="Mozilla"></li>
+  <li> <img src="/image/Google.png" alt="Google"></li>
+</ul>
+</div>
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+       
+     
