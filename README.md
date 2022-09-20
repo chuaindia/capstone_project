@@ -15,12 +15,14 @@ Create a repository, clone it in the local location.
 
 Following the instructions progress is made.
 
-# Author
+**Author**
 
-# Tanusri Ghosh
+**Tanusri Ghosh**
 
 GitHub: https://github.com/chuaindia/
+
 Twitter: https://twitter.com/chuaghosh25
+
 LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814/
 
 # handshake Contributing
@@ -34,7 +36,7 @@ Give a star if you like this project!
 
 # Acknowledgments
 
-This is designed by Cindy Shin
+This is designed by **Cindy Shin**
 GUI & Graphic Designer,
 Seoul, Korea, Republic of
 I am very much thankful to her for using this awesome design.
