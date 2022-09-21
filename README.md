@@ -36,11 +36,14 @@ Give a star if you like this project!
 
 # Acknowledgments
 
-This is designed by **Cindy Shin**
+This is designed by 
+# Cindy Shin
 GUI & Graphic Designer,
-Seoul, Korea, Republic of
-I am very much thankful to her for using this awesome design.
+Seoul, Republic of Korea,
+
+**I am very much thankful to her for using this awesome design.**
 
 
 memo License
+
 This project is MIT licensed.
