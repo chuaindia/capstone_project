@@ -1,48 +1,53 @@
 /* eslint-disable quotes */
 const speakers = [
     {
-      name: "Miles Obi",
-      post: "Principal",
-      image: "/Images/personel 1.png",
+      name: "Saha M.",
+      post: "Professor",
+      image: "/image/three.webp",
       summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
+        "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+    },
+
+    {
+      name: "Raha N. ",
+      post: "Associate Professor",
+      image: "/image/one.webp",
+      summary:
+      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+     },
+    {
+      name: "Mukhopadhyay S",
+      post: "Associate Professor",
+      image: "/image/sixth.jpg",
+      summary:
+      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+
     },
     {
-      name: "Ojong Joel",
-      post: "Vice Principal",
-      image: "/Images/personel 1.png",
+      name: "Rouchoudhury A",
+      post: "Associate Professor",
+      image: "/image/five.jpg",
       summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
+      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+
     },
     {
-      name: "Tangdou Helen",
-      post: "Discipline Master",
-      image: "/Images/personel2.png",
+      name: "Pan R. N.",
+      post: "Professor",
+      image: "/image/four.webp",
       summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
+      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+
     },
     {
-      name: "Mario Ajeba",
-      post: "Vice Principal",
-      image: "/Images/personel 1.png",
+      name: "Sarkar A. K.",
+      post: "Professor",
+      image: "/image/second.jpg",
       summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
+      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+
     },
-    {
-      name: "Atangana Marie therese.F",
-      post: "Vice Principal",
-      image: "/Images/personel4.png",
-      summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
-    },
-    {
-      name: "Tagne Kevin J.M",
-      post: "Vice Principal",
-      image: "/Images/personel 3.png",
-      summary:
-        "The Principal's main focus should be to develop and maintain effective educational programs within his/her school and to promote the improvement of teaching and learning with his/her school.",
-    },
-  ];
+    ];
   
   // eslint-disable-next-line no-unused-vars
   function navclick(x) {
