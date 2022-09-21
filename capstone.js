@@ -5,7 +5,7 @@ const speakers = [
       post: "Professor",
       image: "/image/three.webp",
       summary:
-        "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
     },
 
     {
@@ -13,14 +13,14 @@ const speakers = [
       post: "Associate Professor",
       image: "/image/one.webp",
       summary:
-      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
      },
     {
       name: "Mukhopadhyay S",
       post: "Associate Professor",
       image: "/image/sixth.jpg",
       summary:
-      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
 
     },
     {
@@ -28,7 +28,7 @@ const speakers = [
       post: "Associate Professor",
       image: "/image/five.jpg",
       summary:
-      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
 
     },
     {
@@ -36,7 +36,7 @@ const speakers = [
       post: "Professor",
       image: "/image/four.webp",
       summary:
-      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
 
     },
     {
@@ -44,7 +44,7 @@ const speakers = [
       post: "Professor",
       image: "/image/second.jpg",
       summary:
-      "The Students should understand <br>the method of production of LASER <br>from very basic knowledge and they <br>  should raise their inquisitiveness <br>regarding its application in daily life.",
+      "The Students should understand <br>the basic knowledge of LASER.",
 
     },
     ];
