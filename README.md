@@ -2,8 +2,15 @@
 
 This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created.
 
-Built With
-HTML CSS JAVASCRIPT
+# Built With
+
+HTML
+
+CSS
+
+JAVASCRIPT
+
+GITHUB PAGE
 
 # Live Demo :
 
