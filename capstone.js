@@ -89,4 +89,5 @@ const speakers = [
     }
   }
   
-  window.addEventListener("DOMContentLoaded", (e) => featureSpeakers(e));
+window.addEventListener("DOMContentLoaded", (e) => featureSpeakers(e));
+

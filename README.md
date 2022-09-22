@@ -2,8 +2,15 @@
 
 This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created. At each and every stage of the project it is deployed accordingly with the help of GitHub Page.
 
-Built With
-HTML CSS JAVASCRIPT
+# Built With
+
+HTML
+
+CSS
+
+JAVASCRIPT
+
+GITHUB PAGE
 
 # Live Demo :
 
@@ -36,11 +43,14 @@ Give a star if you like this project!
 
 # Acknowledgments
 
-This is designed by **Cindy Shin**
+This is designed by 
+# Cindy Shin
 GUI & Graphic Designer,
-Seoul, Korea, Republic of
-I am very much thankful to her for using this awesome design.
+Seoul, Republic of Korea,
+
+**I am very much thankful to her for using this awesome design.**
 
 
 memo License
+
 This project is MIT licensed.
