@@ -92,7 +92,7 @@ body {
 }
 
 .Navlink,
-  .toggleMenu {
+.toggleMenu {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -134,6 +134,12 @@ body {
   width: 100%;
   height: 700px;
   padding: 180px 30px 30px 70px;
+  color: #2e3033;
+  border: white 4px solid;
+  width: fit-content;
+  padding: 10px;
+  margin-top: 150px;
+  margin-bottom: 10px;
 }
 
 .Aboutfirsthead {
@@ -142,18 +148,9 @@ body {
   background-size: contain;
   background-position: center;
   width: 100%;
-  background-color:whitesmoke;
+  background-color: whitesmoke;
   text-align: center;
   padding: 10px 150px;
-}
-
-.firsthead {
-  color: #2e3033;
-  border: white 4px solid;
-  width: fit-content;
-  padding: 10px;
-  margin-top: 150px;
-  margin-bottom: 10px;
 }
 
 .firsthead h1 {
@@ -200,7 +197,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/image/back.svg); 
+  background-image: url(/image/back.svg);
   background-size: contain;
   width: 100%;
   height: 450px;
@@ -503,8 +500,8 @@ footer {
   background-color: #272a31;
   color: white;
   position: fixed;
-  top: 0;
-  left: 0;
+  top: 0px;
+  left: 0px;
   transition: width 0.5s ease;
   overflow-x: hidden;
   z-index: 5;
@@ -537,3 +534,4 @@ footer {
   overflow-x: hidden;
 }
 }
+
