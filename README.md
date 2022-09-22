@@ -1,6 +1,6 @@
 # capstone_project
 
-This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created.
+This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created. At each and every stage of the project it is deployed accordingly with the help of GitHub Page.
 
 Built With
 HTML CSS JAVASCRIPT
