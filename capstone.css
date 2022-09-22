@@ -5,13 +5,13 @@
     margin: 0;
   }
   
-  body {
+body {
     margin: 0;
     padding: 0;
     position: relative;
   }
   
-  .SocialBar {
+.SocialBar {
     display: flex;
     flex-direction: row;
     height: 36px;
@@ -23,22 +23,18 @@
     width: 100%;
    }
 
-  /* hr {
-    align-items: center;
-  } */
-  
-  .SocialBar li {
+.SocialBar li {
     margin: 6px;
     font-size: 10px;
     cursor: pointer;
   }
   
-  .socialIcon {
+.socialIcon {
     height: 12px;
     width: 12px;
   }
   
-  .navSmall {
+.navSmall {
     display: none;
     flex-direction: row;
     justify-content: space-between;
@@ -51,7 +47,7 @@
     z-index: 7;
   }
   
-  .navbtn {
+.navbtn {
     display: block;
     height: 36px;
     width: 36px;
@@ -60,13 +56,13 @@
     margin: 20px;
   }
   
-  .navSmall img {
+.navSmall img {
     margin: 20px;
   }
   
-  .bar1,
-  .bar2,
-  .bar3 {
+.bar1,
+.bar2,
+.bar3 {
     height: 4px;
     width: 34px;
     background-color: orangered;
@@ -74,28 +70,28 @@
     transition: all 0.4s ease;
   }
   
-  .toggleAll .bar2 {
+.toggleAll .bar2 {
     display: none;
   }
   
-  .toggleAll .bar1 {
+.toggleAll .bar1 {
     background-color: red;
     transform: rotate(-45deg) translate(-7px, 8px);
   }
   
-  .toggleAll .bar3 {
+.toggleAll .bar3 {
     background-color: red;
     transform: rotate(45deg) translate(1px, -1px);
   }
   
-  .NavBar {
+.NavBar {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     width: 100%;
   }
   
-  .Navlink,
+.Navlink,
   .toggleMenu {
     display: flex;
     flex-direction: row;
@@ -106,7 +102,7 @@
     transition: width 0.5s linear;
   }
   
-  .Navlink li {
+.Navlink li {
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -114,28 +110,24 @@
     cursor: pointer;
   }
 
-  /*.aboutpage {
-    color: rgb(30, 240, 229);
-  }
-  
-  .homepage {
+.homepage {
     color: rgb(30, 240, 229);
   }*/
 
 
-  .logo {
+.logo {
     height: 40px;
     width: 40px;
     margin: 12px;
   }
   
-  .Hamburger {
+.Hamburger {
     display: none;
     height: 20px;
     width: 20px;
   }
   
-  .firsthead {
+.firsthead {
     display: flex;
     flex-direction: column;
     justify-content: left;
@@ -149,14 +141,9 @@
     padding: 180px 30px 30px 70px;
   }
   
-  /*.secondhead > h3{
-    text-align: center;
-  }*/
-  
-  .Aboutfirsthead {
+.Aboutfirsthead {
     display: flex;
     flex-direction: column;
-  /*  background-image: url("./image/big.png"); */
     background-size: contain;
     background-position: center;
     width: 100%;
@@ -165,17 +152,16 @@
     padding: 10px 150px;
   }
   
-  .firsthead {
+.firsthead {
     color: #2e3033;
     border: white 4px solid;
     width: fit-content;
     padding: 10px;
     margin-top: 150px;
     margin-bottom: 10px;
-  /*  text-align: center; */
   }
 
- .firsthead h1 {
+.firsthead h1 {
     color: orangered;
     font-weight: bolder;
     text-align: left;
@@ -183,18 +169,18 @@
    
   }
 
-  .firsthead h2 {
+.firsthead h2 {
     color: orangered;
     text-align: left;
     text-decoration: underline;
   }
 
-  .secondhead h5 {
+.secondhead h5 {
     color: black;
     text-align: left;
       } 
   
-  .goals {
+.goals {
     color: 2e3033;
     padding: 10px;
     margin-top: 10px;
@@ -202,27 +188,21 @@
     margin-bottom: 60px;
   }
   
-  .aboutintext {
+.aboutintext {
     color: black;
     font-size: 30px;
     padding-bottom: 30px;
     font-weight: bolder;
-   /* justify-content: center; */
     align-items: right;
   }
 
-  /*.aboutintext hr{
-    justify-content: center;
-    align-items: center;
-  }*/
-  
-  .secondhead {
+.secondhead {
    /* background-color: white; */
     color: #2e3033;
     padding: 15px;
   }
   
-  .program {
+.program {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -236,14 +216,14 @@
     color: white;
   }
   
-  .logo2 img {
+.logo2 img {
     height: 150px;
     width: 200px;
     margin: 20px;
     border: 1px solid black;
   }
   
-  .Aboutprogram {
+.Aboutprogram {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -257,7 +237,7 @@
     text-align: center;
   }
   
-  .All-Programs {
+.All-Programs {
     display: grid;
     grid-auto-flow: column;
     justify-content: center;
@@ -267,13 +247,13 @@
     height: fit-content;
     }
   
-  .grid-item1 {
+.grid-item1 {
     height: 150px;
     width: 150px;
     border: 1px solid white;
   }
   
-  .grid-item1:hover {
+.grid-item1:hover {
     background-color: grey;
     border: none;
     opacity: 0.6;
@@ -281,11 +261,11 @@
     cursor: pointer;
   }
   
-  .grid-item1 h3 {
+.grid-item1 h3 {
     color: orangered;
   }
   
-  .line {
+.line {
     height: 4px;
     width: 120px;
     border-radius: 6px;
@@ -294,7 +274,7 @@
     margin-top: 12px;
   }
   
-  .section3 {
+.section3 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -305,7 +285,7 @@
     background-color: rgba(235, 229, 229, 0.341);
   }
   
-  .AboutImage {
+.AboutImage {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -317,13 +297,13 @@
     margin: 70px;
   }
   
-  .be4 {
+.be4 {
     width: fit-content;
     height: fit-content;
     position: relative;
   }
   
-  .be4::before {
+.be4::before {
     content: "";
     background: url("./image/checkers.png");
     background-repeat: no-repeat;
@@ -337,7 +317,7 @@
     z-index: -1;
   }
   
-  .Aboutbe4 {
+.Aboutbe4 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -349,7 +329,7 @@
     position: relative;
   }
   
-  .overlay {
+.overlay {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -362,17 +342,17 @@
     background-color: rgba(255, 166, 0, 0.646);
   }
   
-  .Aboutbe4:hover .overlay {
+.Aboutbe4:hover .overlay {
     opacity: 1;
   }
   
-  .image {
+.image {
     display: block;
     width: 100%;
     height: auto;
   }
   
-  .text {
+.text {
     color: white;
     font-size: 20px;
     position: absolute;
@@ -384,7 +364,7 @@
     text-align: center;
   }
   
-  .Speaker {
+.Speaker {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
@@ -396,27 +376,27 @@
     justify-content: center;
   }
   
-  .Speaker li {
+.Speaker li {
     display: flex;
     flex-direction: row;
     padding: 20px;
     width: 100%;
   }
   
-  .Speaker li img {
+.Speaker li img {
     margin: 10px;
     height: 120px;
     width: 180px;
   }
   
-  .Speaker li h5 {
+.Speaker li h5 {
     font-style: italic;
     color: orangered;
     margin: 8px 0;
     position: relative;
   }
   
-  .Speaker li h5::before {
+.Speaker li h5::before {
     content: "";
     height: 2px;
     width: 20px;
@@ -426,7 +406,7 @@
     top: 14px;
   }
   
-  footer {
+footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -438,7 +418,7 @@
     height: 150px;
   }
   
-  .topfoot {
+.topfoot {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -448,11 +428,11 @@
     height: 220px;
     }
 
-  .topfoot h2 {
+.topfoot h2 {
     position: relative;
   }
   
-  .topfoot h2::after {
+.topfoot h2::after {
     content: "";
     height: 2px;
     width: 34px;
@@ -463,66 +443,66 @@
     left: calc(50% - 17px);
   }
   
-  .topfoot ul {
+.topfoot ul {
     display: flex;
     flex-direction: row;
     list-style: none;
   }
   
-  .topfoot li img {
+.topfoot li img {
     margin: 10px 24px;
     height: 20px;
     width: 60px;
   }
   
-  @media only screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
     .Hamburger {
       display: inline-block;
       height: 20px;
       width: 20px;
     }
   
-  .firsthead {
+.firsthead {
       padding-bottom: 0px;
     }
 
-    .firsthead h1 {
+.firsthead h1 {
       font-size: 30px;
      }
        
-    .program {
+.program {
       height: 930px;
     }
   
-    .logo {
+.logo {
       display: none;
     }
   
-    .SocialBar {
+.SocialBar {
       display: none;
     }
   
-    .navSmall {
+.navSmall {
       display: flex;
     }
   
-    .All-Programs {
+.All-Programs {
       grid-auto-flow: row;
       height: 900px;
       overflow-y: hidden;
     }
   
-    .Aboutprogram p {
+.Aboutprogram p {
       height: 600px;
       overflow-y: hidden;
 
     }
 
-    .Speaker {
+.Speaker {
       grid-template-columns: 1fr;
     }
   
-    .NavBar {
+.NavBar {
       display: flex;
       flex-direction: column;
       height: 100%;
@@ -537,7 +517,7 @@
       z-index: 5;
     }
   
-    .Navlink {
+.Navlink {
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -547,7 +527,7 @@
       font-size: larger;
     }
   
-    .Navlink li {
+.Navlink li {
       justify-content: left;
       border-bottom: 1px solid orangered;
       padding-bottom: 12px;
@@ -555,13 +535,15 @@
       margin: 10px auto;
     }
   
-    .Navlink li:last-child {
+.Navlink li:last-child {
       color: orangered;
     }
   
-    .toggleMenu {
+.toggleMenu {
       width: 100%;
       overflow-x: hidden;
     }
   }
+
+  
 
