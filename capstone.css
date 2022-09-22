@@ -445,89 +445,89 @@ footer {
 
 @media only screen and (max-width: 768px) {
   .Hamburger {
-  display: inline-block;
-  height: 20px;
-  width: 20px;
+    display: inline-block;
+    height: 20px;
+    width: 20px;
   }
 
   .firsthead {
-  padding-bottom: 0;
+    padding-bottom: 0;
   }
 
   .firsthead h1 {
-  font-size: 30px;
+    font-size: 30px;
   }
 
   .program {
-  height: 930px;
+    height: 930px;
   }
 
   .logo {
-  display: none;
+    display: none;
   }
 
   .SocialBar {
- display: none;
+    display: none;
   }
 
   .navSmall {
- display: flex;
+    display: flex;
   }
 
   .All-Programs {
- grid-auto-flow: row;
- height: 900px;
- overflow-y: hidden;
+    grid-auto-flow: row;
+    height: 900px;
+    overflow-y: hidden;
   }
 
   .Aboutprogram p {
- height: 600px;
- overflow-y: hidden;
+    height: 600px;
+    overflow-y: hidden;
   }
 
   .Speaker {
- grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 
   .NavBar {
- display: flex;
- flex-direction: column;
- height: 100%;
- width: 0;
- background-color: #272a31;
- color: white;
- position: fixed;
- top: 0;
- left: 0;
- transition: width 0.5s ease;
- overflow-x: hidden;
- z-index: 5;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 0;
+    background-color: #272a31;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    transition: width 0.5s ease;
+    overflow-x: hidden;
+    z-index: 5;
   }
 
   .Navlink {
- display: flex;
- flex-direction: column;
- justify-content: center;
- margin-top: 74px;
- width: 100%;
- font-weight: bolder;
- font-size: larger;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 74px;
+    width: 100%;
+    font-weight: bolder;
+    font-size: larger;
   }
 
   .Navlink li {
- justify-content: left;
- border-bottom: 1px solid orangered;
- padding-bottom: 12px;
- width: 80%;
- margin: 10px auto;
+    justify-content: left;
+    border-bottom: 1px solid orangered;
+    padding-bottom: 12px;
+    width: 80%;
+    margin: 10px auto;
   }
 
   .Navlink li:last-child {
- color: orangered;
+    color: orangered;
   }
 
   .toggleMenu {
- width: 100%;
- overflow-x: hidden;
+    width: 100%;
+    overflow-x: hidden;
   }
 }
