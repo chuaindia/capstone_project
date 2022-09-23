@@ -2,49 +2,49 @@
 const speakers = [
     {
       name: "Saha M.",
-      post: "Professor",
+      post: "Professor,School of Nanophysics,Calcutta",
       image: "/image/three.webp",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "Introduction to the very <br> basic knowledge of LASER.",
     },
 
     {
       name: "Raha N. ",
-      post: "Associate Professor",
+      post: "Associate Professor,Delhi University,Delhi",
       image: "/image/one.webp",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "The day to day life <br> How we are using LASER.",
      },
     {
       name: "Mukhopadhyay S",
-      post: "Associate Professor",
+      post: "Associate Professor,Department of Chemistry,J.U.",
       image: "/image/sixth.jpg",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "The materials characteristics needed <br> for the production of LASER.",
 
     },
     {
       name: "Rouchoudhury A",
-      post: "Associate Professor",
+      post: "Associate Professor,Rajabazar Science College, Calcutta",
       image: "/image/five.jpg",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "Utilisation of Material Properties <br> for the impletation of LASER.",
 
     },
     {
       name: "Pan R. N.",
-      post: "Professor",
+      post: "Professor, BHU, Benaras",
       image: "/image/four.webp",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "The artistic concept of Einstein <br>behind the birth of LASER.",
 
     },
     {
       name: "Sarkar A. K.",
-      post: "Professor",
+      post: "Professor,BESU,Howrah",
       image: "/image/second.jpg",
       summary:
-      "The Students should understand <br>the basic knowledge of LASER.",
+      "Commercial use of LASER <br>for the growth of Industry.",
 
     },
     ];

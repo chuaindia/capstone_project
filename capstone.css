@@ -90,6 +90,10 @@ body {
   width: 100%;
 }
 
+.NavBar ul li .seminar {
+  border: 1px solid black;
+}
+
 .Navlink,
 .toggleMenu {
   display: flex;
@@ -99,6 +103,10 @@ body {
   list-style: none;
   width: auto;
   transition: width 0.5s linear;
+}
+
+.Navlink a {
+  color: orangered;
 }
 
 .Navlink li {
@@ -113,6 +121,12 @@ body {
   height: 40px;
   width: 40px;
   margin: 12px;
+  border-radius: 50% 50%;
+  }
+
+.seminar {
+  border-width: thick solid 2px;
+  border-color: black;
 }
 
 .Hamburger {
@@ -178,11 +192,24 @@ body {
 }
 
 .aboutintext {
-  color: black;
+  background-image: url("./image/big.png");
+  color: orangered;
   font-size: 30px;
   padding-bottom: 30px;
   font-weight: bolder;
   align-items: right;
+  z-index: inherit;
+}
+
+.section3 {
+  display: grid;
+  background-size: contain;
+  background-position: center;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  padding: 10px 150px;
+
 }
 
 .secondhead {
@@ -238,12 +265,17 @@ body {
 .grid-item1 {
   height: 150px;
   width: 150px;
-  border: 1px solid white;
+  border: none;
 }
+
+.All-Programs1 {
+  display: flex;
+  flex-direction: row;
+  }
 
 .grid-item1:hover {
   background-color: grey;
-  border: none;
+  border: 1px solid white;
   opacity: 0.6;
   transition: 0.3s;
   cursor: pointer;
@@ -382,6 +414,7 @@ body {
   color: orangered;
   margin: 8px 0;
   position: relative;
+  font-weight: bolder;
 }
 
 .Speaker li h5::before {
@@ -404,6 +437,16 @@ footer {
   font-size: 12px;
   width: 100%;
   height: 150px;
+}
+
+.bottomfoot {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  background-color: #272a31;
+  height: 64px;
 }
 
 .topfoot {
@@ -442,6 +485,8 @@ footer {
   height: 20px;
   width: 60px;
 }
+
+
 
 @media only screen and (max-width: 768px) {
   .Hamburger {
