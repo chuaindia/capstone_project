@@ -18,14 +18,14 @@ const speakers = [
       name: "Mukhopadhyay S",
       post: "Associate Professor,Department of Chemistry,J.U.",
       image: "/image/sixth.jpg",
-      summary: "The materials characteristics needed <br> for the production of LASER.",
+      summary: "The materials needed for the<br>production of LASER.",
     },
 
     {
       name: "Rouchoudhury A",
       post: "Associate Professor,Rajabazar Science College, Calcutta",
       image: "/image/five.jpg",
-      summary: "Utilisation of Material Properties <br> for the impletation of LASER.",
+      summary: "Utilisation of Material Properties <br> for the use of LASER.",
     },
 
     {
