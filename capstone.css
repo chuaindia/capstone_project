@@ -142,6 +142,7 @@ body {
 .Aboutfirsthead {
   display: flex;
   flex-direction: column;
+  background-image: url("./image/big.png");
   background-size: contain;
   background-position: center;
   width: 100%;
