@@ -510,6 +510,14 @@ footer {
 
   .program {
     height: 930px;
+    width: 400px;
+    align-content: center;
+  }
+  
+  .grid-item1 {
+    height: 150px;
+    width: 350px;
+    background-color: grey;
   }
 
   .logo {
