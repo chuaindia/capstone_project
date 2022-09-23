@@ -1,8 +1,11 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # capstone_project
 
-This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created. At each and every stage of the project it is deployed accordingly with the help of GitHub Page.
+> This capstone project will show an online website for a seminar. The content is written by me with provided guidelines. initially two pages named "Home" and "About" is being created.
 
-# Built With
+
+## Built With
 
 HTML
 
@@ -12,36 +15,50 @@ JAVASCRIPT
 
 GITHUB PAGE
 
-# Live Demo :
+## Live Demo (if available)
 
 https://chuaindia.github.io/capstone_project/
 
-# Getting Started
+
+## Getting Started
 
 Create a repository, clone it in the local location.
 
 Following the instructions progress is made.
 
-**Author**
+### Prerequisites
 
-**Tanusri Ghosh**
+### Setup
 
-GitHub: https://github.com/chuaindia/
+### Install
 
-Twitter: https://twitter.com/chuaghosh25
+### Usage
 
-LinkedIn: https://www.linkedin.com/in/tanusri-ghosh-2a56b814/
+### Run tests
 
-# handshake Contributing
+### Deployment
+
+
+
+## Authors
+
+👤 **Tanusri Ghosh**
+
+- GitHub: [@chuaindia](https://github.com/chuaindia/)
+- Twitter: [@chuaghosh25](https://twitter.com/chuaghosh25)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanusri-ghosh-2a56b814/)
+
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-Show your support
-Give a star if you like this project!
+## Show your support
 
-# Acknowledgments
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
 
 This is designed by 
 # Cindy Shin
@@ -50,7 +67,6 @@ Seoul, Republic of Korea,
 
 **I am very much thankful to her for using this awesome design.**
 
+## 📝 License
 
-memo License
-
-This project is MIT licensed.
+This project is [MIT](./LICENSE) licensed.
