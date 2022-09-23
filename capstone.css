@@ -418,6 +418,10 @@ body {
   font-weight: bolder;
 }
 
+.Speaker li h4 {
+  font-size: 20px;
+}
+
 .Speaker li h5::before {
   content: "";
   height: 2px;
